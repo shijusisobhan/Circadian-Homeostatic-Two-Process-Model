@@ -41,8 +41,8 @@ $$
 
 where:
 
--  $S_t$ = sleep pressure at time \( t \)
-- \( t_i \) = buildup time constant
+-  $S_t$ = sleep pressure at time t
+- $t_i$ = buildup time constant
 -  $\Delta t$  = simulation time step
 
 ---
@@ -57,7 +57,7 @@ $$
 
 where:
 
-- \( t_d \) = decay time constant
+- $t_d$ = decay time constant
 
 ---
 
@@ -69,8 +69,8 @@ $$
 
 where:
 
-- \( M_u \) = mean upper threshold
-- \( A_u \) = upper threshold oscillation amplitude
+- $M_u$ = mean upper threshold
+- $A_u$ = upper threshold oscillation amplitude
 
 ---
 
@@ -82,8 +82,8 @@ $$
 
 where:
 
-- \( M_l \) = mean lower threshold
-- \( A_l \) = lower threshold oscillation amplitude
+- $M_l$= mean lower threshold
+- $A_l$ = lower threshold oscillation amplitude
 
 ---
 
@@ -95,5 +95,5 @@ $$
 
 where:
 
-- \( \tau \) = circadian period
+- $\tau$ = circadian period
 ```
