@@ -43,7 +43,7 @@ where:
 
 -  \S_t = sleep pressure at time \( t \)
 - \( t_i \) = buildup time constant
-- \( \Delta t \) = simulation time step
+-  $\Delta t$  = simulation time step
 
 ---
 
