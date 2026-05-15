@@ -19,6 +19,15 @@ st.title("Two-Process Sleep Model")
 
 st.sidebar.header("Model Parameters")
 
+Mu = st.sidebar.slider(
+    "Mu",
+    min_value=0.0,
+    max_value=1.0,
+    value=0.6,
+    step=0.01,
+    help="Upper threshold mean value"
+)
+
 Ml = st.sidebar.number_input(
     "Ml",
     value=0.15,
@@ -66,15 +75,6 @@ N_days = st.sidebar.number_input(
     value=10,
     step=1,
     help="Number of simulated days"
-)
-
-Mu = st.sidebar.slider(
-    "Mu",
-    min_value=0.0,
-    max_value=1.0,
-    value=0.6,
-    step=0.01,
-    help="Upper threshold mean value"
 )
 
 # ---------------------------------------------------
