@@ -1,4 +1,4 @@
-# Two-Process-Sleep-Model
+# Two Process Sleep Model
 
 🔗 **Live Web App:**  
 🚀 Try the interactive Streamlit app [here](https://two-process-sleep-model-web-apppy-gmw6dsz84yyfiumi2dv5rq.streamlit.app/)
